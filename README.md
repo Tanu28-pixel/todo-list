@@ -26,5 +26,6 @@ All tasks are saved automatically using **localStorage** — so your list stays 
 ## 💡 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+https://tanu28-pixel.github.io/todo-list/
+
 
